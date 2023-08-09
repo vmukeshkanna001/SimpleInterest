@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: antiquewhite;
+    
+}
+#main{
+    background-color: whitesmoke;
+    border: 2px solid rgb(152, 204, 11);
+    padding: 20px 10px;
+}
+h2,h3{
+    background-color: gray;
+}
+#btn{
+    background-color: black;
+    color: aliceblue;
+}
